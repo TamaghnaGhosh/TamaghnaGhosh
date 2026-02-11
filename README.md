@@ -14,6 +14,7 @@ Hi 👋, I’m Tamaghna Ghosh<br>Frontend Engineer from India 🇮🇳<br><br>I 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GhoshTamaghna)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tamaghnaghosh6184)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@TamaghnaGhosh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/tamaghnaghosh/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghoshtamaghna6991@gmail.com)
 
 # 💻 Tech Stack:
